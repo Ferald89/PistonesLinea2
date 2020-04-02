@@ -1,109 +1,3 @@
-REM Uploaded from TranspL1 on 17/03/2020 09:53:55 a. m.
-REM #line 0 "E:\TRANS.bas"
-REM Uploaded from TranspL1 on 17/03/2020 08:42:12 a. m.
-REM #line 0 "C:\Users\PRODUCCION\Downloads\Transportador\Upload31.bas"
-REM Uploaded from TranspL1 on 17/03/2020 08:22:49 a. m.
-REM #line 0 "C:\Users\PRODUCCION\Downloads\Transportador\Upload30.bas"
-REM Uploaded from TranspL1 on 17/03/2020 08:19:46 a. m.
-REM #line 0 "C:\Users\PRODUCCION\Downloads\Transportador\Upload29.bas"
-REM Uploaded from TranspL1 on 15/03/2020 03:13:26 p. m.
-REM #line 0 "C:\Users\PRODUCCION\Downloads\Transportador\Upload28.bas"
-REM Uploaded from TranspL1 on 15/03/2020 10:36:11 a. m.
-REM #line 0 "C:\Users\PRODUCCION\Downloads\Transportador\Upload27.bas"
-REM Uploaded from TranspL1 on 10/03/2020 09:16:32 a. m.
-REM #line 0 "C:\Users\PRODUCCION\Downloads\Transportador\Upload26.bas"
-REM Uploaded from TranspL1 on 10/03/2020 08:44:37 a. m.
-REM #line 0 "C:\Users\PRODUCCION\Downloads\Transportador\Upload25.bas"
-REM Uploaded from TranspL1 on 03/03/2020 05:33:17 p. m.
-REM #line 0 "C:\Users\PRODUCCION\Downloads\Transportador\Upload24.bas"
-REM Uploaded from TranspL1 on 03/03/2020 05:29:16 p. m.
-REM #line 0 "C:\Users\PRODUCCION\Downloads\Transportador\Upload23.bas"
-REM Uploaded from TranspL1 on 03/03/2020 02:47:44 p. m.
-REM #line 0 "C:\Users\PRODUCCION\Downloads\Transportador\Upload22.bas"
-REM Uploaded from TranspL1 on 03/03/2020 02:38:20 p. m.
-REM #line 0 "C:\Users\PRODUCCION\Downloads\Transportador\Upload21.bas"
-REM Uploaded from TranspL1 on 03/03/2020 02:33:56 p. m.
-REM #line 0 "C:\Users\PRODUCCION\Downloads\Transportador\Upload20.bas"
-REM Uploaded from TranspL1 on 03/03/2020 10:06:42 a. m.
-REM #line 0 "C:\Users\PRODUCCION\Downloads\Transportador\Upload19.bas"
-REM Uploaded from TranspL1 on 03/03/2020 09:54:25 a. m.
-REM #line 0 "C:\Users\PRODUCCION\Downloads\Transportador\Upload18.bas"
-REM Uploaded from TranspL1 on 03/03/2020 09:10:48 a. m.
-REM #line 0 "C:\Users\PRODUCCION\Downloads\Transportador\Upload17.bas"
-REM Uploaded from TranspL1 on 03/03/2020 08:33:57 a. m.
-REM #line 0 "C:\Users\PRODUCCION\Downloads\Transportador\Upload16.bas"
-REM Uploaded from TranspL1 on 03/03/2020 08:30:22 a. m.
-REM #line 0 "C:\Users\PRODUCCION\Downloads\Transportador\Upload15.bas"
-REM Uploaded from TranspL1 on 03/03/2020 08:28:02 a. m.
-REM #line 0 "C:\Users\PRODUCCION\Downloads\Transportador\Upload14.bas"
-REM Uploaded from TranspL1 on 03/03/2020 08:26:33 a. m.
-REM #line 0 "C:\Users\PRODUCCION\Downloads\Transportador\Upload13.bas"
-REM Uploaded from TranspL1 on 02/03/2020 03:16:06 p. m.
-REM #line 0 "C:\Users\PRODUCCION\Downloads\Transportador\Upload12.bas"
-REM Uploaded from TranspL1 on 02/03/2020 02:04:16 p. m.
-REM #line 0 "C:\Users\PRODUCCION\Downloads\Transportador\Upload11.bas"
-REM Uploaded from TranspL1 on 02/03/2020 12:52:36 p. m.
-REM #line 0 "C:\Users\PRODUCCION\Downloads\Transportador\Upload10.bas"
-REM Uploaded from TranspL1 on 02/03/2020 12:44:46 p. m.
-REM #line 0 "C:\Users\PRODUCCION\Downloads\Transportador\Upload9.bas"
-REM Uploaded from TranspL1 on 02/03/2020 12:19:31 p. m.
-REM #line 0 "C:\Users\PRODUCCION\Downloads\Transportador\Upload8.bas"
-REM Uploaded from TranspL1 on 02/03/2020 10:08:45 a. m.
-REM #line 0 "C:\Users\PRODUCCION\Downloads\Transportador\Upload7.bas"
-REM Uploaded from TranspL1 on 02/03/2020 10:04:53 a. m.
-REM #line 0 "C:\Users\PRODUCCION\Downloads\Transportador\Upload6.bas"
-REM Uploaded from TranspL1 on 02/03/2020 10:00:30 a. m.
-REM #line 0 "C:\Users\PRODUCCION\Downloads\Transportador\Upload5.bas"
-REM Uploaded from TranspL1 on 02/03/2020 09:55:19 a. m.
-REM #line 0 "C:\Users\PRODUCCION\Downloads\Transportador\Upload4.bas"
-REM Uploaded from TranspL1 on 02/03/2020 09:50:58 a. m.
-REM #line 0 "C:\Users\PRODUCCION\Downloads\Transportador\Upload3.bas"
-REM Uploaded from TranspL1 on 02/03/2020 09:44:52 a. m.
-REM #line 0 "C:\Users\PRODUCCION\Downloads\Transportador\Upload2.bas"
-REM Uploaded from TranspL1 on 28/02/2020 08:48:08 a. m.
-REM #line 0 "C:\Users\PRODUCCION\Downloads\Transportador\Upload.bas"
-REM Uploaded from TranspL1 on 26/02/2020 12:54:37 p. m.
-REM #line 0 "C:\Users\DeicaMont1\Documents\transp\Upload6.bas"
-REM Uploaded from TranspL1 on 21/02/2020 05:23:13 p.m.
-REM #line 0 "C:\Users\DeicaMont1\Documents\transp\Upload3.bas"
-REM Uploaded from TranspL1 on 21/02/2020 10:11:24 a.m.
-REM #line 0 "C:\Users\DeicaMont1\Documents\transp\Upload3_5.bas"
-REM Uploaded from TranspL1 on 15/02/2020 09:34:08 a.m.
-REM #line 0 "C:\Users\DeicaMont1\Downloads\Upload2.bas"
-REM Uploaded from TranspL1 on 13/02/2020 10:48:06 a.m.
-REM #line 0 "C:\Users\DeicaMont1\Downloads\Upload.bas"
-REM Uploaded from TranspL1 on 09/02/2020 01:52:29 p.m.
-REM #line 0 "C:\Users\DeicaMont1\Downloads\CORRE2.bas"
-REM Uploaded from TranspL1 on 05/02/2020 08:56:15 a.m.
-REM #line 0 "C:\Users\DeicaMont1\Documents\transp\Tx1_5.bas"
-REM Uploaded from TranspL1 on 04/02/2020 09:07:00 a.m.
-REM #line 0 "C:\Users\hitachi\Desktop\prueba4.bas"
-REM Uploaded from TranspL1 on 2/3/2020 3:26:59 AM
-REM #line 0 "C:\Users\hitachi\Desktop\prueba3.bas"
-REM Uploaded from TranspL1 on 2/2/2020 11:59:40 PM
-REM #line 0 "C:\Users\hitachi\Desktop\pruebas2.bas"
-REM Uploaded from TranspL1 on 2/2/2020 11:22:28 PM
-REM #line 0 "C:\Users\hitachi\Desktop\Prueba.bas"
-REM Uploaded from TranspL1 on 2/2/2020 7:35:44 AM
-REM #line 0 "C:\Users\DeicaMont1\Documents\transp\Tx1_4.bas"
-REM Uploaded from TranspL1 on 01/02/2020 11:16:59 a.m.
-REM #line 0 "C:\Users\DeicaMont1\Documents\transp\Tx1_3.bas"
-REM Uploaded from TranspL1 on 31/01/2020 03:31:26 p.m.
-REM #line 0 "C:\Users\DeicaMont1\Documents\transp\Tx1_2.bas"
-REM Uploaded from TranspL1 on 31/01/2020 02:28:59 p.m.
-REM #line 0 "C:\Users\DeicaMont1\Documents\transp\Tx1.bas"
-REM Uploaded from TranspL1 on 31/01/2020 09:50:32 a.m.
-REM #line 0 "C:\Users\DeicaMont1\Downloads\Trabajo23.bas"
-REM Uploaded from TranspL1 on 24/01/2020 08:57:30 p.m.
-REM #line 0 "F:\Documentos\Transportador\Trabajo 9.bas"
-REM Uploaded from TranspL1 on 24/01/2020 12:48:32 p.m.
-REM #line 0 "F:\Documentos\Transportador\Trabajo 6.bas"
-REM Uploaded from TranspL1 on 24/01/2020 10:11:03 a.m.
-REM #line 0 "C:\Users\tecnolgo\Documents\Tr\Trabajo4.bas"
-REM Uploaded from TranspL1 on 24/01/2020 09:53:47 a.m.
-REM #line 0 "C:\Users\tecnolgo\Documents\Tr\Trabajo3.bas"
-REM Uploaded from TranspL1 on 23/01/2020 10:08:39 a.m.
-REM #line 0 "F:\Documentos\Transportador\Programas\Home.bas"
 'This is an example Home Routine
 'The motor moves toward the home switch at SearchSpeed in the CW direction until Input 7 goes Low.  
 'The motor stops then moves in the CCW direction at BackSpeed (slower speed) until Input 7 goes High.
@@ -193,7 +87,7 @@ Sub Go_Home
 	Print "En posicion DESC2 desactivado"
     DOUT21.STATEU = 0 						'Apagar en posicion DESC3
 	Print "En posicion DESC3 desactivado"
-    If DIN1.State = 1 then Call Cercasw
+    If DIN1.State = 1 then Call Cercasw     'Si micro ON, llamar subrutina Cercasw
 	MOVE.ACC = ACC_Home						'Aceleracion en home
 	MOVE.DEC = ACC_Home						'Desaceleracion en home
 	MOVE.RUNSPEED = Vel_Home				'Velocidad en home
@@ -201,7 +95,7 @@ Sub Go_Home
 	Pause(0.1)
 	MOVE.GOVEL								'Mueve el motor a la velocidad y direccion especificados en RUNSPEED Y DIR
 	move.runspeed = 0
-	when DIN1.State = 1, move.goupdate 		'Espera la senal del micro, cuando lo detecta se activa go.update
+	when DIN1.State = 1, move.goupdate 		'Cuando micro ON, se activa go.update
 	while move.inposition = 0 : wend		'Espera a que se detenga el carro (repite la subrutina hasta que inposition=1
 	
 	MOVE.RUNSPEED = Vel_Home
@@ -223,11 +117,13 @@ Sub Term1
     DOUT24.STATEU = 0                        	'Apagar Moviendo (Apagar T.Verde)
 	print "Fin movimiento grado 1"
     DOUT23.STATEU = 1							'Activar en posicion
-	print "En posicion descarga grado 1"
-	print "Esperando Boton"
-	When DIN7.State = 1,DOUT29.STATEU = 1		'Esperar senal de liberacion de piston
+	print "En posicion de descarga grado 1"
+	print "Esperando boton"
+	When DIN7.State = 1,DOUT29.STATEU = 1		'Cuando detecta boton presionado, activa válvula de piston para retraerlo 
+    When DIN30.State = 1 AND DIN31.State = 0, print "Piston bajo"
 	print "Esperando boton por segunda vez"
     WHEN DIN7.State = 0, DOUT29.STATEU = 0  	'Esperar que salga pieza y levantar piston
+    When DIN30.State = 0 AND DIN31.State = 1, print "Piston subio"
 	Print "Liberacion grado 1 completa"
     DOUT26.STATEU = 1                       	'Activar termino  de secuencia 1, pulso 2 seg
     Pause(2.0)
@@ -241,11 +137,13 @@ Sub Term2
     DOUT24.STATEU = 0                        	'Apagar Moviendo (Apagar T.Verde)
 	print "Fin movimiento grado 2"
 	DOUT23.STATEU = 1 			 				'Activar en posicion
-	print "En posicion descarga grado 2"
-	print "Esperando Boton"              
-	When DIN4.State = 1,DOUT29.STATEU = 1		'Esperar senal de liberacion de piston
+	print "En posicion de descarga grado 2"
+	print "Esperando boton"              
+	When DIN4.State = 1,DOUT29.STATEU = 1		'Cuando detecta boton presionado, activa válvula de piston para retraerlo 
+    When DIN30.State = 1 AND DIN31.State = 0, print "Piston bajo"
 	print "Esperando boton por segunda vez"
     WHEN DIN4.State = 0, DOUT29.STATEU = 0   	'Esperar que salga pieza y levantar piston
+    When DIN30.State = 0 AND DIN31.State = 1, print "Piston subio"
 	Print "Liberacion grado 2 completa"
     DOUT27.STATEU = 1                        	'Activar Termino  De Secuencia 2, pulso 2 seg
     Pause(2.0)
@@ -260,11 +158,13 @@ Sub Term3
     DOUT24.STATEU = 0                        	'Apagar Moviendo (Apagar T.Verde)
 	print "Fin movimiento grado 3"
 	DOUT23.STATEU = 1                        	'Activar en posicion
-	print "En posicion descarga grado 3"
-	print "Esperando Boton"
-	When DIN3.State = 1,DOUT29.STATEU = 1    	'Esperar senal de liberacion de piston
+	print "En posicion de descarga grado 3"
+	print "Esperando boton"
+	When DIN3.State = 1,DOUT29.STATEU = 1    	'Cuando detecta boton presionado, activa válvula de piston para retraerlo 
+    When DIN30.State = 1 AND DIN31.State = 0, print "Piston bajo"
 	print "Esperando boton por segunda vez"
     WHEN DIN3.State = 0, DOUT29.STATEU = 0  	'Esperar que salga pieza y levantar piston
+    When DIN30.State = 0 AND DIN31.State = 1, print "Piston subio"
 	Print "Liberacion grado 3 completa"
     DOUT28.STATEU = 1                       	'Activar Termino  De Secuencia 3, pulso 2 seg
     Pause(2.0)
@@ -348,6 +248,7 @@ Sub Desc1
        print "Fin movimiento hacia riel grado 1"
        print "Esperando ingreso de charola en el carro" 
        When DIN27.State = 1,DOUT2.STATEU = 0 'Esperar que entre charola y desactivar DESC1
+       When DIN27.State = 1, print "Charola detectada en carro"
        Pause(2.0)
        DOUT24.STATEU = 1                     'Activar en movimiento (Encender T. Verde)
        print "En movimiento hacia descarga grado 1"
@@ -360,7 +261,8 @@ Sub Desc2
        DOUT24.STATEU = 0                     'Desactivar moviendo (Apagar T. Verde)
        print "Fin movimiento hacia If DIN27.State = 0 then Call Riel1riel grado 2"
        print "Esperando ingreso de charola en el carro" 
-       When DIN27.State = 1,DOUT2.STATEU = 0 'Esperar que entre charola y desactivar DESC2
+       When DIN27.State = 1,DOUT1.STATEU = 0 'Esperar que entre charola y desactivar DESC2
+       When DIN27.State = 1, print "Charola detectada en carro"
        Pause(2.0)
        DOUT24.STATEU = 1                     'Activar en movimiento (Encender T. Verde)
        print "En movimiento hacia descarga grado 2"
@@ -373,6 +275,7 @@ Sub Desc3
        print "Fin movimiento hacia riel grado 3"
        print "Esperando ingreso de charola en el carro" 
        When DIN27.State = 1,DOUT2.STATEU = 0 'Esperar que entre charola y desactivar DESC3
+       When DIN27.State = 1, print "Charola detectada en carro"
        Pause(2.0)
        DOUT24.STATEU = 1                     'Activar en movimiento (Encender T. Verde)
        print "En movimiento hacia descarga grado 3"
@@ -380,7 +283,7 @@ End Sub
  '-------------- Rutina Grado 1 -------------------      
 Sub Riel1
        cls
-       DOUT22.STATEU = 0						'Apagar T. Naranja
+       DOUT22.STATEU = 0						'Apagar T. Naranja (Apagar en espera)
        Print "Ir a grado1"
        MOVE.ACC = ACC_Movs
        MOVE.DEC = ACC_Movs
@@ -388,14 +291,15 @@ Sub Riel1
        MOVE.TARGETPOS = -521				'Ir a posicion indicada
        MOVE.GOABS							'Iniciar movimiento absoluto
        DOUT24.STATEU = 1					'Activar en movimiento (Encender T. Verde)
-       print "En movimiento hacia Riel Grado 1"
+       print "En movimiento hacia riel grado 1"
        while NOT(PL.FB =-521) AND (disab=0) :wend	
+       print "Posición: ", PL.FB
        If disab =0 then Call Desc1			'Si drive deshabilitado, llamar a Desc1
  End Sub
  '-------------- Rutina Grado 2 -------------------      
 Sub Riel2
        cls
-       DOUT22.STATEU = 0					'Apagar T. Naranja
+       DOUT22.STATEU = 0					'Apagar T. Naranja (Apagar en espera)
        Print "Ir a grado2"
        MOVE.ACC = ACC_Movs
        MOVE.DEC = ACC_Movs
@@ -403,14 +307,15 @@ Sub Riel2
        MOVE.TARGETPOS = -880				'Ir a posicion indicada
        MOVE.GOABS							'Iniciar movimiento absoluto
        DOUT24.STATEU = 1					'Activar en movimiento (Encender T. Verde)
-       print "En movimiento hacia Riel Grado 2"
+       print "En movimiento hacia riel grado 2"
        while NOT(PL.FB =-880) AND (disab=0) :wend
+       print "Posición: ", PL.FB
        If disab =0 then Call Desc2			'Si drive deshabilitado, llamar a Desc2
 End Sub
 '-------------- Rutina Grado 3 -------------------      
 Sub Riel3
        cls
-       DOUT22.STATEU = 0					'Apagar T. Naranja
+       DOUT22.STATEU = 0					'Apagar T. Naranja (Apagar en espera)
        Print "Ir a grado3"
        MOVE.ACC = ACC_Movs
        MOVE.DEC = ACC_Movs
@@ -418,8 +323,9 @@ Sub Riel3
        MOVE.TARGETPOS = -1250				'Ir a posicion indicada
        MOVE.GOABS							'Iniciar movimiento absoluto
 	   DOUT24.STATEU = 1					'Activar en movimiento (Encender T. Verde)
-	   Print "En movimiento hacia Riel Grado 3"
+	   Print "En movimiento hacia riel grado 3"
 	   While NOT (PL.FB = -1250) AND (disab=0) :Wend
+       print "Posición: ", PL.FB
 	   If disab =0 Then Call Desc3			'Si drive deshabilitado, llamar a Desc3
 End Sub
 '-------------- Rutina revisar sw -------------------      
@@ -432,7 +338,8 @@ Sub Cercasw
 	Pause(0.1)
 	MOVE.GOVEL								'Mueve el motor a la velocidad y direccion especificados en RUNSPEED Y DIR
 	move.runspeed = 0
-	when DIN1.State = 0, move.goupdate 		'Espera la senal del micro, cuando lo detecta se activa go.update
+	when DIN1.State = 0, move.goupdate 		'Espera la senal del micro, cuando lo detecta se activa move.goupdate
+    when DIN1.State = 0, print "Se dejo de detectar micro"
 	while move.inposition = 0 : wend		'Espera a que se detenga el carro (repite la subrutina hasta que inposition=1
 	
 	MOVE.RUNSPEED = Vel_Home
