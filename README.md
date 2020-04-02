@@ -1,2 +1,2 @@
 # PistonesLinia2
-Este es el repositorio para el control el Servo Motor KOLLMORGEN
+Este es el repositorio para el control del Servo Motor KOLLMORGEN
