@@ -110,6 +110,7 @@ REM #line 0 "F:\Documentos\Transportador\Programas\Home.bas"
 'The motor stops and position is latched when Input 7 goes High.  This latched position is defined as the home position.
 'The motor then does a move back to this home position.
 'Cambio de armando
+'pruebaramaarmando
 '-------------- Device Params -----------------------
 Params 
 	DRV.OPMODE = 2		'position operation mode
